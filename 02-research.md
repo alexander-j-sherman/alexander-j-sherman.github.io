@@ -6,7 +6,7 @@ permalink: research
 
 # **Real and imaginary colonial geography** {#real-imag-geog}
 
-<img src="https://alexander-j-sherman.github.io/Sherman_real-imaginary.png" align="left" width="33%" style="float:left; padding-right:20px"/>
+<img src="https://alexander-j-sherman.github.io/Sherman_real-imaginary.png" align="left" width="50%" style="float:left; padding-right:20px"/>
 
 How do imperial imagination---culture, symbols, art, language, tropes---and imperial reality---conquest, territory, enslavement, exploitation---shape each other? In particular, how do the geographies imagined in colonial texts relate to concrete colonial maneuvers?
 
@@ -24,7 +24,7 @@ At the ([Literary Lab](https://litlab.stanford.edu/projects/voice/), we investig
 
 # **Modeling domestic space**
 
-<img src="https://alexander-j-sherman.github.io/domestic-space.png" align="left" width="33%" style="float:left; padding-right:20px"/>
+<img src="https://alexander-j-sherman.github.io/domestic-space.png" align="left" width="50%" style="float:left; padding-right:20px"/>
 
 *Collaborators: Mark Algee-Hewitt; Julia Gershon; Svenja Guhr; Annie Lamar; Jessica Monaco; Sarah Sophie Schwarzhappel; Matt Warner*
 
