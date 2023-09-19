@@ -6,7 +6,7 @@ permalink: publications
 
 “Four Theses on the Real and Imaginary British Empire, 1697-1829.” *PMLA*. Forthcoming. Accepted manuscript available [here](https://alexander-j-sherman.github.io/PMLA-21-08-0028.R3_Proof_hi.pdf).
 
-“Mapping Empire’s Horror: Literary GIS and Colonial Spatial Logic.” In *Space and Literary Studies*, ed. Elizabeth Evans (Cambridge: Cambridge University Press). Forthcoming. Please email me for an accepted manuscript.
+“Mapping Empire’s Horror: Literary GIS and Colonial Spatial Logic.” In *Space and Literary Studies*, ed. Elizabeth Evans (Cambridge: Cambridge University Press). Forthcoming (2024). Please email me for an accepted manuscript.
  
 [Review](https://doi.org/10.1353/ecs.2023.0020) of Adam Sills, *Against the Map: The Politics of Geography in Eighteenth-Century Britain*. *Eighteenth-Century Studies*, 56:2, Winter 2023. Accepted manuscript available [here](https://alexander-j-sherman.github.io/AgainstTheMap_ReviewMS.docx).
  
