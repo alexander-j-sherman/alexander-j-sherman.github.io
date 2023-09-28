@@ -10,7 +10,7 @@ I have developed and taught the following classes at Stanford University:
 
 - [*Travel and Education*](https://alexander-j-sherman.github.io/Sherman Syllabus_Travel and Education_Final): This writing-intensive seminar considered how two common prongs of individual development are education and travel, which are often combined in institutions like university study abroad. To interrogate this connection and, ultimately, how educational systems (formal and informal) work, we read travel writings and *Bildungsromane* from the eighteenth century to the present, and students crafted a long final research paper on texts of their choosing.
 
-- [*Literary Text Mining*](SYLLABUS) (currently teaching): This course introduces students to computational literary studies by focusing on a foundational method: counting words. Students learn to frame literary critical research questions, computational inquiries based on them, and collaborate on digital humanities projects by considering Jane Austen’s fiction alongside thousands of Austen fanfiction stories, using RStudio and the R programming language. 
+- [*Literary Text Mining*](https://alexander-j-sherman.github.io/ENG184E Syllabus.pdf): This course introduces students to computational literary studies by focusing on a foundational method: counting words. Students learn to frame literary critical research questions, computational inquiries based on them, and collaborate on digital humanities projects by considering Jane Austen’s fiction alongside thousands of Austen fanfiction stories, using RStudio and the R programming language. 
 
 I have also been a teaching assistant for:
 
