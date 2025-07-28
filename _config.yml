@@ -22,7 +22,7 @@ title: Alexander Sherman
 email: ajsherm@stanford.edu
 description: "" 
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexander-j-sherman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-slate
