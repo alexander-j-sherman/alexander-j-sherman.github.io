@@ -40,6 +40,6 @@ My guiding argument is that the virtual position consolidated as a way to manage
 \
 \
 \
-\
+
 
 Images from *A Voyage to New Holland* by William Dampier (1703) and *The Mysteries of Udolpho* by Ann Radcliffe (1794; image from 1806 edition)
