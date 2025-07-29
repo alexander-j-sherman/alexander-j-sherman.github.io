@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dangers Near and Far
-permalink: book
+permalink: /book/
 output: html_document
 ---
 
