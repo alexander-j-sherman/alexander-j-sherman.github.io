@@ -15,18 +15,5 @@ My guiding argument is that the virtual position consolidated as a way to manage
 
 <img src="https://alexander-j-sherman.github.io/dampier.png" align="left" width="50%" style="float:left; padding-right:20px"/> <img src="https://alexander-j-sherman.github.io/udolpho.jpeg" align="right" width="33%" style="float:right; padding-right:20px"/>
 
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-
 
 Images from *A Voyage to New Holland* by William Dampier (1703) and *The Mysteries of Udolpho* by Ann Radcliffe (1794; image from 1806 edition)
