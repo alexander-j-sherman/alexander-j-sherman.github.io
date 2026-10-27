@@ -13,7 +13,4 @@ I model this method through a literary history of the virtual position: a highly
 
 My guiding argument is that the virtual position consolidated as a way to manage the large-scale dangers of expanding overseas empire, those terrifying threats to survival that lurked obscurely somewhere between the near and the far. Key authors include Robert Boyle, William Dampier, Daniel Defoe, and Ann Radcliffe, along with a host of natural philosophers, seafarers, and novelists across genres.
 
-<img src="https://alexander-j-sherman.github.io/dampier.png" align="left" width="50%" style="float:left; padding-right:20px"/> <img src="https://alexander-j-sherman.github.io/udolpho.jpeg" align="right" width="33%" style="float:right; padding-right:20px"/>
-
-
-Images from *A Voyage to New Holland* by William Dampier (1703) and *The Mysteries of Udolpho* by Ann Radcliffe (1794; image from 1806 edition)
+<img src="https://alexander-j-sherman.github.io/dampier.png" align="left" width="50%" style="float:left; padding-right:20px"/><img src="https://alexander-j-sherman.github.io/udolpho.jpeg" align="right" width="33%" style="float:right; padding-right:20px"/>
