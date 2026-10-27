@@ -4,6 +4,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
+At the University of Texas at Austin, I have developed and taught the following courses:
+
+- [*Plan II World Literature Part I: Mobility*](https://alexander-j-sherman.github.io/Syllabus-E303C-Autumn-2026-Sherman-Public.pdf)
+
+- [*Plan II World Literature Part II: The Novel*](https://alexander-j-sherman.github.io/Sherman_E303D_Public.pdf)
+
+- [*Introduction to Digital Humanities (Graduate)*](https://alexander-j-sherman.github.io/Syllabus-E388D-Sherman-Autumn-2026-Public.pdf)
+
 At Stanford University, I developed and taught the following courses:
 
 - [*Pathogens and Populations: Representing Infectious Disease*](https://alexander-j-sherman.github.io/syllabus_P-and-P.pdf), co-taught with [Mallory Harris](https://mjharris95.github.io): This course compared scientific and cultural representations of infectious disease (e.g., plays and systems of differential equations; counterfactual documentary and counterfactual models). Such comparisons helped students question the underlying assumptions and limits in our attempts to describe populations, infection, illness, and death. The course was also covered in the [*Stanford Report*](https://news.stanford.edu/report/2023/01/03/students-examine-scientific-cultural-representations-disease/).

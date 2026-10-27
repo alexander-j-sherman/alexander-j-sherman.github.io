@@ -4,11 +4,11 @@ title: Publications
 permalink: publications
 ---
 
-With Matt Warner, Nichole Nomura, Carmen Thong, Alix Keener, Gabi Keane, Maciej Kurzynski, and Mark Algee-Hewitt. "Slow, Painful and Expensive: Current Challenges in Text-Mining Corpus Construction for the Digital Humanities," *Digital Humanities Quarterly*. Forthcoming. Please email me for an accepted manuscript.
+With Matt Warner, Nichole Nomura, Carmen Thong, Alix Keener, Gabi Keane, Maciej Kurzynski, and Mark Algee-Hewitt. "[Slow, Painful and Expensive: Current Challenges in Text-Mining Corpus Construction for the Digital Humanities](https://dhq.digitalhumanities.org/vol/19/3/000790/000790.html)," *Digital Humanities Quarterly*. Available [here](https://alexander-j-sherman.github.io/000790.pdf).
 
-With Svenja Guhr, Jessica Monaco, Alexander Sherman, Matt Warner, and Mark Algee-Hewitt. “Making BERT Feel at Home: Modelling Domestic Space in 19th-Century British and Irish Fiction,” *Journal of Computational Literary Studies*. Accepted with revisions.
+With Svenja Guhr, Jessica Monaco, Alexander Sherman, Matt Warner, and Mark Algee-Hewitt. “[Making BERT Feel at Home: Modelling Domestic Space in 19th-Century British and Irish Fiction](https://jcls.io/article/id/4164/),” *Journal of Computational Literary Studies*. Available [here](https://alexander-j-sherman.github.io/jcls-4164-guhr.pdf).
 
-With Meghan M. Shea, Fatoumata Binta Barrie, Rahsaan McFarland II, Stephen R. Palumbi, Fiorenza Micheli, and Margaret Cohen. "A Framework for Co-Creating Knowledge Across the Ocean Humanities and Sciences," *npj Ocean Sustainability*. Under review.
+With Meghan M. Shea, Fatoumata Binta Barrie, Rahsaan McFarland II, Stephen R. Palumbi, Fiorenza Micheli, and Margaret Cohen. "[A Framework for Co-Creating Knowledge Across the Ocean Humanities and Sciences](https://www.nature.com/articles/s44183-026-00186-1)," *npj Ocean Sustainability*. Available [here](https://alexander-j-sherman.github.io/s44183-026-00186-1.pdf).
 
 "[Four Theses on the Real and Imaginary British Empire, 1697-1829](https://www.cambridge.org/core/journals/pmla/article/abs/four-theses-on-the-real-and-imaginary-british-empire-16971829/6E611F469237BA8C5AB2387F73932903?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)," *PMLA* 139, no. 3 (2024): 470-92. Accepted manuscript available [here](https://alexander-j-sherman.github.io/PMLA-21-08-0028.R3_Proof_hi.pdf).
 
